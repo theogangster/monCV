@@ -4,6 +4,8 @@ footer{
     border: 2px solid #000000;
     border-width: 50px;
     border-style: ridge;
+    margin-right: 1100px;
     p{color: #995000;
-    font-size:50px}
+    font-size:50px;
+    }
 }
