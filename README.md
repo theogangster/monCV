@@ -1,3 +1,1 @@
-# monCV
-Mon CV en ligne
-Mon premier projet HTML - CSS
+# MON PREMIER CV EN HTML - CSS
