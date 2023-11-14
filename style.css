@@ -1,0 +1,104 @@
+h1.oui
+{
+    font-family: Calibri ;
+    text-align: center;
+    padding-top: 10px;
+    border: 2px;
+    border-width: 5px;
+    border-style: ridge;
+    height: 50px;
+    width: 300px;
+    background-color:grey;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.oui
+{
+    font-family: Calibri;
+    font-size: large;
+    border: 2px;
+    border-width: 3px;
+    border-style: solid;
+    width: 80%;
+    background-color: lightgrey;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+header.oui
+{
+    border: 2px;
+    border-width: 3px;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkgrey;
+}
+
+section.oui
+{
+    border: 2px;
+    border-width: 3px;
+    border-style: solid;
+    margin-top: 5px;
+    margin-right: auto;
+    display: block;
+    min-width: 49%;
+    float: right;
+    background-color: darkgrey;
+}
+
+article
+{
+    text-align: left;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 5px;
+    margin-right: auto;
+    margin-left:5px;
+    margin-bottom: 5px;
+    padding-left:5px;
+    width: auto;
+    max-width: 300px;
+    background-color: lightgrey;
+    
+}
+
+aside
+{
+    border-width: 3px;
+    border-style: solid;
+    margin-top: 5px;
+    margin-left: auto;
+    min-width: 49%;
+    float: left;
+    background-color: darkgrey;
+}
+div.test
+{
+    display: flex;
+}
+
+footer
+{
+    font-family: Calibri;
+    text-align: center;
+    border-width: 3px;
+    border-style: solid;
+    margin-top: 5px;
+    background-color: darkgrey;
+}
+
+img
+{
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+h2
+{
+    margin-left: 10px;
+}
