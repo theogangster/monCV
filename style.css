@@ -58,11 +58,6 @@ aside{
     font-size: large;
 }
 
-hr.aside{
-    width: 550px;
-    height: 0px;
-    float: left;
-}
 
 #photo{
     text-align: center;
@@ -91,6 +86,7 @@ div.test{
     flex:1;
 }
 
+
 footer{
     font-family: Calibri;
     text-align: center;
@@ -100,14 +96,20 @@ footer{
     background-color: darkgrey;
 }
 
+div.xd{
+    display: flex;
+}
+
 img{
-    justify-content: center;
+    
     border: 5px solid black;
     border-style: ridge;
     border-color: darkgrey;
-    height:150px;
+    height:200px;
     width: auto;
-    margin-left: 270px;
+    margin-left:  auto;
+    margin-right: auto;
+    
 }
 
 h2{
